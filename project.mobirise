@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Minecraft Unity Remake",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -70,13 +70,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icon-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/icon-transparent.webp",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -97,7 +96,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner1-1440x837.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/banner1.webp",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -308,7 +307,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-1440x837.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/banner0.webp",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -539,7 +538,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icon-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/icon-transparent.webp",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -644,7 +643,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icon-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/icon-transparent.webp",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1246,7 +1245,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icon-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/icon-transparent.webp",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1527,7 +1526,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icon-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/icon-transparent.webp",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
